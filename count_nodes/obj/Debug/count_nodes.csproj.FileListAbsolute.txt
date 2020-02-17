@@ -1,0 +1,6 @@
+C:\Users\papravin\source\repos\Linkedlist_new\count_nodes\bin\Debug\count_nodes.exe.config
+C:\Users\papravin\source\repos\Linkedlist_new\count_nodes\bin\Debug\count_nodes.exe
+C:\Users\papravin\source\repos\Linkedlist_new\count_nodes\bin\Debug\count_nodes.pdb
+C:\Users\papravin\source\repos\Linkedlist_new\count_nodes\obj\Debug\count_nodes.csproj.CoreCompileInputs.cache
+C:\Users\papravin\source\repos\Linkedlist_new\count_nodes\obj\Debug\count_nodes.exe
+C:\Users\papravin\source\repos\Linkedlist_new\count_nodes\obj\Debug\count_nodes.pdb
